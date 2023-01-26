@@ -16,6 +16,14 @@
     align-items: center;
     justify-content: center;
 }
+.custom-text{
+    color: blue;
+}
+.img-avatar{
+
+        width: 90px;
+        height: 90px;
+}
 
 
 
